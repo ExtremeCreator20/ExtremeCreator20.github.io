@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, h6 {
+    background-color: #4bb47c;
+    font-family: 'Times New Roman';
+    
+}
+/*body {
+    color: #238450;
+}*/
+body {
+    background-color: #f7f7f7; /* Háttér színe */
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)); /* Áttetsző fehér színű réteg a háttérképen, és a háttérkép url-je */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}  
