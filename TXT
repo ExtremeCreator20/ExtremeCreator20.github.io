@@ -1,0 +1,4 @@
+v=spf1 mx ~all;
+v=DMARC1; p=none; rua=mailto:dmarc-reports@extremecreator20.github.io;
+k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDNTfIFP2kv3KlnHJy4dbu/kfGLOFpBhA57K6exYuN7wvAy1+WWVQhM9rJUyLXct7eXk1sNGiFcr56ZnXQn5i77G25uMhBgDrK920MktPa+1Q3jae3OjOW8SszKc4C3s1RoqMR4fL+E2YC911m50dOgGZlLjqngI9hWnE142u8QrQIDAQAB;
+verify_e7bc6a0788415f9ccdb483412db0cdda
